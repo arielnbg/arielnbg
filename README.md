@@ -1,10 +1,6 @@
 ## Olá! Bem-vindo(a) ao perfil do Ariel 😁
 
-<div>
-  <a href="https://github.com/arielnbg">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arielnbg&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielnbg&layout=compact&langs_count=6&theme=merko"/>
-</div>
+
  
   ### Você pode me encontrar nas redes sociais abaixo!
  
